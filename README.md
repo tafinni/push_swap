@@ -52,6 +52,3 @@ Go to push_swap folder and type "make". Then run ./push [numbers you want to sor
 After this program will give a list of previously mentioned moves that would sort the given numbers.
 
 ---
-
-
-After this program will give a list of previously mentioned moves that would sort the given numbers.
